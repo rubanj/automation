@@ -14,4 +14,4 @@ Using **Python** and your favourite testing framework, create a suite of tests u
 
 **You can host the resulting project on github and send us the link or send the archived project via email.**
 
-## Remember to also add instructions on how we can set up and run the project.
+**Remember to also add instructions on how we can set up and run the project.**
