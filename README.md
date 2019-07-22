@@ -1,4 +1,6 @@
-Using Python and your favourite testing framework, create a suite of tests using the API available from https://www.metaweather.com/api/ to:
+#Brief#
+
+Using **Python** and your favourite testing framework, create a suite of tests using the API available from https://www.metaweather.com/api/ to:
 
 1.	Search for San Francisco
 
@@ -10,6 +12,6 @@ Using Python and your favourite testing framework, create a suite of tests using
 
 5.	Optionally, when writing code to satisfy points 1-4, write in obvious extra checks for each of the 3 APIs you’re using for this exercise.
 
-You can host the resulting project on github and send us the link or send the archived project via email. 
+**You can host the resulting project on github and send us the link or send the archived project via email.**
 
-Remember to also add instructions on how we can set up and run the project.
+##Remember to also add instructions on how we can set up and run the project.##
